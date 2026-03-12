@@ -1,0 +1,13 @@
+﻿  lab1.1.cpp
+D:\code\lab1.1\logger.cpp(4,5): error C2275: 'FILE': illegal use of this type as an expression
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(31): message : see declaration of 'FILE'
+D:\code\lab1.1\logger.cpp(4,5): error C2065: 'LINE': undeclared identifier
+D:\code\lab1.1\logger.cpp(7,5): error C2275: 'FILE': illegal use of this type as an expression
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(31): message : see declaration of 'FILE'
+D:\code\lab1.1\logger.cpp(7,5): error C2065: 'LINE': undeclared identifier
+D:\code\lab1.1\logger.cpp(10,5): error C2275: 'FILE': illegal use of this type as an expression
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(31): message : see declaration of 'FILE'
+D:\code\lab1.1\logger.cpp(10,5): error C2065: 'LINE': undeclared identifier
+D:\code\lab1.1\logger.cpp(13,5): error C2275: 'FILE': illegal use of this type as an expression
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdio.h(31): message : see declaration of 'FILE'
+D:\code\lab1.1\logger.cpp(13,5): error C2065: 'LINE': undeclared identifier
