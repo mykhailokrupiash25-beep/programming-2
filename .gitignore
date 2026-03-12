@@ -54,4 +54,5 @@
 *.idb
 *.ipch
 *.aps
-
+*.vs/lab_4/v16
+# Debug
