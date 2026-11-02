@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sam0202/sam0202.vcxproj" Id="5e8df9af-dc9a-48b2-8f76-6cd4fd84c43a" />
+</Solution>

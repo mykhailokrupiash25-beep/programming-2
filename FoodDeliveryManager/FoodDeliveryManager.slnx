@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FoodDeliveryManager/FoodDeliveryManager.vcxproj" Id="3d34cb37-5acb-4ce9-a795-9d861059db77" />
+</Solution>
